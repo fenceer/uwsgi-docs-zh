@@ -4,7 +4,7 @@
    contain the root `toctree` directive.
 
 uWSGI 项目简介
-**************
+==============
 uWSGI 项目旨在为部署分布式集群网络应用开发一个完整的解决方案。
 
 uWSGI主要面向web及其标准服务，已经成功的应用于多种不同的语言。
